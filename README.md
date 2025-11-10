@@ -2,8 +2,8 @@
 This is the privacy policy for longan detection app
 
 ## Privacy Policy
-### View the full privacy policy: [privacy-policy.html](privacy-policy.html)<br>
-### Link: [GitHub Page](https://lehoangminhquan.github.io/longan_detection_app_policies/)
+### View the full privacy policy on GitHub Page: [Link](https://lehoangminhquan.github.io/longan_detection_app_policies/privacy-policy.html)<br>
+### or raw URL: <https://lehoangminhquan.github.io/longan_detection_app_policies/>
 This privacy policy covers:
 - Camera permissions for taking longan leaf pictures
 - Read external storage and media images permissions
